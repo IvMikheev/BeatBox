@@ -1,0 +1,11 @@
+﻿target/
+.idea/
+.idea
+.repository/
+*.iml
+*.iws
+*.class
+*.info
+*.properties
+*.jar
+/out/
